@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Icon of a clock being frozen up" (https://raw.githubusercontent.com/Sirmentio/fabric-mod-ihgm/main/src/main/resources/assets/ihgm/icon.png) width="128">
+<img alt="Icon of a clock being frozen up" src="https://raw.githubusercontent.com/Sirmentio/fabric-mod-ihgm/main/src/main/resources/assets/ihgm/icon.png" width="128">
 
 # I'm here, Get Moving
 

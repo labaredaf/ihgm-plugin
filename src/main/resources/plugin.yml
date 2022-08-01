@@ -1,0 +1,4 @@
+name: Breaker
+version: '${project.version}'
+main: im.hunnybon.ihgm.Ihgm
+api-version: 1.15
